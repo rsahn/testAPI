@@ -8,7 +8,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class Main {
-
+//method 1
         private static HttpURLConnection connection;
 
     public static void main(String[] args) {
